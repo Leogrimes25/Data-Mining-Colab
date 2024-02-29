@@ -1,1 +1,1 @@
-# Minera-o-de-Dados-no-Colab
+Projeto Final da Disciplina de Mineração de Dados
